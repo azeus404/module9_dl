@@ -1,5 +1,5 @@
 # Module 9 MCSE - Deep Learning in Cyber Security
-Uitwerkingen Module 9 Deep Learning 
+Uitwerkingen van Module 9 Deep Learning practicum 13 maart 2020.
 
 ## Opdracht 1
 Heb ik het meegeleverde weights.h5 bestand weggegooid. Vervolgens backprop_xor_train.py uitgevoerd. Het resultaat van de training is 100 accuracy
