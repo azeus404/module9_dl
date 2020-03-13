@@ -1,4 +1,4 @@
-# module9_dl
+# module9 Deep Learning
 Uitwerkingen Module 9
 
 ## Opdracht 1
