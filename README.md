@@ -38,7 +38,7 @@ correct estimated
 [0.] [[0]]
 
 ## Opdracht 3
-Er is met deze opdracht van alles mis :(. Ik mis een uitleg van de gebruiken packages en welke folders er vooraf nodig zijn om de code goed te laten werken.
+Er is met deze opdracht van alles mis :(. Ik mis een uitleg van de te gebruiken packages en welke folders er vooraf nodig zijn om de code goed te laten werken.
 Zoals: images_for_learning en models
 
 Na wat knutselwerk heb ik de code werkend gekregen. Alleen het script om onbekende malware te classificeren mist volgens mij data(?). Alle data is nl. gebruikt bij trainen en valideren van het model.
