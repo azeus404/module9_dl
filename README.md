@@ -40,7 +40,7 @@ zoals: images_for_learning
 
 Na wat knutselwerk heb ik de code werkend gekregen. Alleen het script om malware te classificeren mist volgens mij data? Alle data is nl. gebruikt bij trainen en valideren van het model.
 
-Malware_Classify.py heeft maar 8 classes uit een ander voorbeeld(?). Ik heb deze aangepast naar 25: de verschillende families die aanwezig zijn in de dataset.
+Daarnaast heeft Malware_Classify.py maar 8 classes om de malware in te kunnen verdelen. Ik heb deze aangepast naar 25: de verschillende families die aanwezig zijn in de dataset.
 
 ## Code
 Ik heb de aangepaste code geupload in deze repo. Ik heb gebruik gemaakt van een lokale GPU. Om deze te benutten zijn er  aanpassingen gedaan in de scripts. 
