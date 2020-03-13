@@ -7,3 +7,6 @@ Vervolgens de classificatie backprop_xor_classify.py uitgevoerd eveneens 100% ac
 ## Opdracht 2
 Ik heb het weights.h5 bestand verwijderd 
 
+## Opdracht 3
+Met deze opdracht is van alles mis. Ik mis een uitleg van de gebruiken packages en welke folders er vooraf nodig zijn om de code goed te laten werken.
+
