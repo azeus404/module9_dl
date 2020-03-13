@@ -18,7 +18,7 @@ correct estimated
 
 
 ## Opdracht 2
-Ik heb het weights.h5 bestand verwijderd en de data aangepast naar AND functie en twee nieuwe scripts aangemaakt:
+Ik heb het weights.h5 bestand  dat na het uitvoeren van het vorige script gemaakt is verwijderd en de data aangepast naar AND functie en twee nieuwe scripts aangemaakt:
 - backprop_and_train.py
 - backprop_and_classify.py
 
