@@ -1,4 +1,4 @@
-# module9 Deep Learning
+# Module 9 MCSE - Deep Learning
 Uitwerkingen Module 9
 
 ## Opdracht 1
