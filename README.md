@@ -10,3 +10,4 @@ Ik heb het weights.h5 bestand verwijderd
 ## Opdracht 3
 Met deze opdracht is van alles mis. Ik mis een uitleg van de gebruiken packages en welke folders er vooraf nodig zijn om de code goed te laten werken.
 
+Na wat knutselwerk heb ik de code werkend gekregen. Alleen het classificeren mist volgens mij data? Alle data is nl. gebruikt bij trainen en valideren van het model.
