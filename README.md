@@ -25,6 +25,7 @@ Training:
 
 
 Classify:
+Accuracy: 50.00
 Accuracy: 88.89
 correct estimated
 [0.] [[0]]
