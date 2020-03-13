@@ -36,3 +36,6 @@ correct estimated
 Er is met deze opdracht van alles mis :(. Ik mis een uitleg van de gebruiken packages en welke folders er vooraf nodig zijn om de code goed te laten werken.
 
 Na wat knutselwerk heb ik de code werkend gekregen. Alleen het classificeren mist volgens mij data? Alle data is nl. gebruikt bij trainen en valideren van het model.
+
+## Code
+Ik heb de aangepaste code geupload in deze repo.
